@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FirstReact-app/static/css/main.d9dff56a.css",
+    "main.js": "/FirstReact-app/static/js/main.90f4bb00.js",
+    "static/js/787.f3d7924f.chunk.js": "/FirstReact-app/static/js/787.f3d7924f.chunk.js",
+    "static/media/background.jpg": "/FirstReact-app/static/media/background.c5518d51a8e897058310.jpg",
+    "static/media/graph4.png": "/FirstReact-app/static/media/graph4.3f7f375d336d5ee79e95.png",
+    "static/media/Atgmail.png": "/FirstReact-app/static/media/Atgmail.796bc04098ba23dfbb1d.png",
+    "static/media/serviceImg3.png": "/FirstReact-app/static/media/serviceImg3.ee41c3f82dfe96743725.png",
+    "static/media/serviceImg1.jpg": "/FirstReact-app/static/media/serviceImg1.fb04953a0ca40d972516.jpg",
+    "static/media/Email.png": "/FirstReact-app/static/media/Email.12741fa8771d4960c42b.png",
+    "static/media/clients2.png": "/FirstReact-app/static/media/clients2.4409d90028ceefb780ff.png",
+    "static/media/serviceImg2.png": "/FirstReact-app/static/media/serviceImg2.1c7e021fa23ebd359dd1.png",
+    "static/media/follow.png": "/FirstReact-app/static/media/follow.e35a1b6996d013005a89.png",
+    "index.html": "/FirstReact-app/index.html",
+    "main.d9dff56a.css.map": "/FirstReact-app/static/css/main.d9dff56a.css.map",
+    "main.90f4bb00.js.map": "/FirstReact-app/static/js/main.90f4bb00.js.map",
+    "787.f3d7924f.chunk.js.map": "/FirstReact-app/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9dff56a.css",
+    "static/js/main.90f4bb00.js"
+  ]
+}
