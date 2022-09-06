@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FirstReact-app/static/css/main.328016ca.css",
+    "main.css": "/FirstReact-app/static/css/main.07221937.css",
     "main.js": "/FirstReact-app/static/js/main.90f4bb00.js",
     "static/js/787.f3d7924f.chunk.js": "/FirstReact-app/static/js/787.f3d7924f.chunk.js",
     "static/media/background.jpg": "/FirstReact-app/static/media/background.c5518d51a8e897058310.jpg",
@@ -13,12 +13,12 @@
     "static/media/serviceImg2.png": "/FirstReact-app/static/media/serviceImg2.1c7e021fa23ebd359dd1.png",
     "static/media/follow.png": "/FirstReact-app/static/media/follow.e35a1b6996d013005a89.png",
     "index.html": "/FirstReact-app/index.html",
-    "main.328016ca.css.map": "/FirstReact-app/static/css/main.328016ca.css.map",
+    "main.07221937.css.map": "/FirstReact-app/static/css/main.07221937.css.map",
     "main.90f4bb00.js.map": "/FirstReact-app/static/js/main.90f4bb00.js.map",
     "787.f3d7924f.chunk.js.map": "/FirstReact-app/static/js/787.f3d7924f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.328016ca.css",
+    "static/css/main.07221937.css",
     "static/js/main.90f4bb00.js"
   ]
 }
