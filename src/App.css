@@ -19,6 +19,7 @@
 
 .navbar {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-around;
 
@@ -58,6 +59,7 @@
 
 .allCards {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-around;
   background: #E5EAEA;
@@ -155,6 +157,7 @@
 
 .allClients {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-around;
   margin: 7% 11% 0 11%;
@@ -307,6 +310,7 @@
 
   .card1 {
     width: 300px;
+    margin: 15px 5px ;
 
   }
 
